@@ -45,6 +45,7 @@ I'm Guilherme _(You can pronounce it as William, which is more or less related t
 </p>
 
 #### <p align="center">Social media:</p>
+<div>
 <br/>
 	<img align="right" src="https://gifimage.net/wp-content/uploads/2018/04/peeking-around-corner-gif-2.gif" />
 
@@ -60,10 +61,11 @@ So feel free to hit me up on the few social media I do have!
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 <br/>
+</div>
 <br/>
 <p align="center" >  
 	<a href="https://github.com/anuraghazra/github-readme-stats"> 
-			<img  src="https://github-readme-stats.vercel.app/api?username=smol-guilherme&&show_icons=true&theme=radical"/>
+		<img  src="https://github-readme-stats.vercel.app/api?username=smol-guilherme&&show_icons=true&theme=radical"/>
 	</a>
 </p>
 
