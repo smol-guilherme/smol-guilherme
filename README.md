@@ -1,11 +1,11 @@
-### <p align="center">Greetings!:whale:</p>
+## <p align="center">Greetings!:whale:</p>
 <br/>
 <div align="center">
 	<img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" />
 	<p style="font-size:14px; font-style:italic">PS: I don't own a cat (yet)</p>
 </div>
 
-#### <p align="center">And welcome to my GitHub page!</p>
+### <p align="center">And welcome to my GitHub page!</p>
 
 I'm Guilherme _(You can pronounce it as William, which is more or less related to the origin of this name, or you can just call me Giggs, as in Ryan Giggs)_, and I'm a software developer.
 
@@ -22,7 +22,7 @@ I'm Guilherme _(You can pronounce it as William, which is more or less related t
 - Games, turn-based/real time strategy and RPGs are my favorites!
 - Learning new languages, a very slow but sure plan for the long-run. I'm currently stuck on learning Japanese (check the first item of this list).
 
-#### <p align="center">Technical skills:</p>
+### <p align="center">Technical skills:</p>
 
 <p align="center">
 
@@ -44,7 +44,7 @@ I'm Guilherme _(You can pronounce it as William, which is more or less related t
 
 </p>
 
-#### <p align="center">Social media:</p>
+### <p align="center">Social media:</p>
 <div>
 <br/>
 	<img align="right" src="https://gifimage.net/wp-content/uploads/2018/04/peeking-around-corner-gif-2.gif" />
