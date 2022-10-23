@@ -26,14 +26,23 @@ I'm Guilherme _(You can pronounce it as William, which is more or less related t
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
 <br/>
-<img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
 <br/>
-<img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazon web services" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px" heigth="44px" width="44px">
+<p align="center" style="font-size: 12px; font-style: italic;">Not even a Haiku, but we're getting there</p>
+
+</p>
 
 #### <p align="center">Social media:</p>
 <br/>
@@ -45,10 +54,10 @@ I'm Guilherme _(You can pronounce it as William, which is more or less related t
 So feel free to hit me up on the few social media I do have!
 
 <a href="mailto:smo.guilherme93@gmail.com">
-	<img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
 <a href="https://www.linkedin.com/in/guilherme-oliveira-5b292ba3/">
-	<img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 <br/>
 <br/>
