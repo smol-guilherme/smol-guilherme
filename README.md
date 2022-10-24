@@ -7,13 +7,13 @@
 
 ### <p align="center">And welcome to my GitHub page!</p>
 
-I'm Guilherme _(You can pronounce it as William, which is more or less related to the origin of this name, or you can just call me Giggs, as in Ryan Giggs)_, and I'm a software developer.
+I'm Guilherme _(You can pronounce it as William, which is more or less related to the origin of this name, or you can just call me Giggs, as in Ryan Giggs)_, and I'm a software developer from Brazil.
 
 ## <p align="center">About me:</p>
 
 - I'm born in May-93, so that makes me a 29 year old at the time of writting this.
 - As a developer, my technical skills are focused towards Fullstack development, with React JS and JavaScript/TypeScript as my most knowledgeable technologies.
-- As a technology person, my dream is to ascend to the career of SRE/DevOps.
+- As a technology person, my goal is to ascend to the career of SRE/DevOps.
 
  
 ### <p align="center">Hobbies:</p>
