@@ -11,7 +11,6 @@ I'm Guilherme _(You can pronounce it as William, which is more or less related t
 
 ## <p align="center">About me:</p>
 
-- I'm born in May-93, so that makes me a 29 year old at the time of writting this.
 - As a developer, my technical skills are focused towards Fullstack development, with React JS and JavaScript/TypeScript as my most knowledgeable technologies.
 - As a technology person, my goal is to ascend to the career of SRE/DevOps.
 
